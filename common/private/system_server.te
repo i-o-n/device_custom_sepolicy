@@ -10,3 +10,4 @@ allow system_server pocket_service:service_manager { add find };
 hal_client_domain(system_server, hal_lineage_fod)
 hal_client_domain(system_server, hal_lineage_livedisplay)
 hal_client_domain(system_server, hal_lineage_touch)
+hal_client_domain(system_server, hal_lineage_powershare)
